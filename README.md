@@ -20,8 +20,9 @@ Products can be sorted from low to high or high to low, on sidebar products can 
 10. We have also added Footer in all the Pages
 11. And we have also added some little functionality which you can check by opening the Page.
 
-FUNCTIONALITIES IMPLEMENTED
+![Screenshot (120)](https://user-images.githubusercontent.com/99666763/171472121-3730903b-84c4-4ae6-971b-d1683b09952b.png)
 
+FUNCTIONALITIES IMPLEMENTED
 1. Login via OTP verification
 2. Search Engine
 3. Shows the Products searched for
